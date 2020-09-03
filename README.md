@@ -1,6 +1,6 @@
 # meta-toggle
 
-![Github Actions Status](https://github.com/jakekara/meta-toggle/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/jakekara/jupyterlab_meta-toggle/workflows/Build/badge.svg)
 
 meta toggle
 
